@@ -1,0 +1,17 @@
+'''
+shift + 方向鍵 -> 選取
+ctrl + c 複製
+ctrl + v 貼上
+ctrl + x 剪下
+ctrl + z 上一步
+ctrl + shift + z 下一步
+ctrl + d 重複選取
+alt + 方向鍵 移動順序
+'''
+abcbc
+abcbc
+123
+abcbc
+xyzabc
+xyzabc
+xyzabc
